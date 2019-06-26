@@ -1,6 +1,6 @@
 # mapper-thesis
 
-In NeuralNetwork.ipynb used code from Michael Nielsen book (http://neuralnetworksanddeeplearning.com)
+In NeuralNetwork.ipynb used code from Michael Nielsen book (http://neuralnetworksanddeeplearning.com).
 
 ### Prerequisites:
 
