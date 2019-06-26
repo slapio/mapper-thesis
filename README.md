@@ -12,4 +12,4 @@ scikit-learn==0.19.0
 
 scipy==0.19.1
 
-Mapper.ipnyb make use of python 3.
+Mapper.ipnyb make use of Python 3.
